@@ -1,2 +1,1 @@
-# Game
-Ok
+Upload all files to GitHub Pages root. Enable Firebase Anonymous Authentication. Publish database.rules.json in Realtime Database Rules. Config is already filled. Rules are for basic play, not cheat-proof.
